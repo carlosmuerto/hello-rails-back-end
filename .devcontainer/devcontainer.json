@@ -21,7 +21,15 @@
 				"rebornix.ruby",
 				"castwide.solargraph",
 				"LoranKloeze.ruby-rubocop-revived",
-				"GitHub.vscode-pull-request-github"
+				"GitHub.vscode-pull-request-github",
+				"wingrunr21.vscode-ruby",
+				"KoichiSasada.vscode-rdbg",
+				"ms-vscode.test-adapter-converter",
+				"hbenl.vscode-test-explorer",
+				"connorshea.vscode-ruby-test-adapter",
+				"ckolkman.vscode-postgres",
+				"eamodio.gitlens",
+				"aliariff.auto-add-brackets"
 			]
 		}
 	},
